@@ -23,6 +23,8 @@ So, the neural network will try to find the relationship between the features of
 
 ## Let's understand, How a single neuron works?
 
+![alt text](designs/neural_network.png)
+
 A neuron have Five different core components:
 
 - Input/Feature/Reason: The input is the feature of the data or maybe a output value of the previous neuron.
